@@ -8,6 +8,5 @@ namespace GITPROB
 {
     internal class FileName3
     {
-        //Второе изменение
     }
 }
