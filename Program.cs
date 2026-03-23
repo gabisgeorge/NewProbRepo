@@ -14,7 +14,6 @@ namespace GITPROB
             ////fsafasdddddddd
             ///aksdgjkasg
             ///asdjgasgasdg
-            ///aaaawert
         }
     }
 }
